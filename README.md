@@ -9,7 +9,7 @@
   <h1><a href="index.html">한재준, 그는 누구인가</a></h1>
   <ol> <h5>2019.5.5 18:49 악푸 부원 이다은</h5> </ol>
   <h2>[단독] 한재준을 말하다.</h2>
-  <img src="재준 한.jpg" width="20%">
+  <img src="재준 한.jpg" width="40%">
   <ol><h1>간☆지★폭☆발</h1></ol>
 <p>
 <ol>출생: 2002년 10월 3일 (18살)</ol>
@@ -35,5 +35,5 @@
 <img src="깜띡2.jpg" width="20%">
 </body>
 <ol>made by-이다은</ol>
-<style>body{background-color: pink}</style>
+
 </html>
